@@ -1,0 +1,38 @@
+.scroll-gallery {
+    display: block; /* Change from flex to block for simpler stacking */
+    max-width: 600px; /* Constrain the gallery width */
+    margin: 0 auto; /* Center the gallery */
+    padding: 20px;
+  }
+  
+  .gallery-item {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    text-align: center;
+    margin-bottom: 40px; /* Space between items */
+    width: 100%; /* Ensure items take full container width */
+  }
+  
+  .gallery-item.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .gallery-item img {
+    max-width: 100%; /* Ensure image fits container */
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: block; /* Prevent inline behavior */
+    margin-left: auto; /* Center image */
+    margin-right: auto;
+  }
+  
+  .gallery-item p {
+    font-size: 16px;
+    color: #e7e4e4;
+    line-height: 1.5;
+    margin: 0; /* Remove default margin */
+  }
