@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wooden-5-piece-set/static/css/main.a6b5bf9a.css",
+    "main.js": "/wooden-5-piece-set/static/js/main.e28c21f8.js",
+    "static/js/453.33c0f2e9.chunk.js": "/wooden-5-piece-set/static/js/453.33c0f2e9.chunk.js",
+    "index.html": "/wooden-5-piece-set/index.html",
+    "main.a6b5bf9a.css.map": "/wooden-5-piece-set/static/css/main.a6b5bf9a.css.map",
+    "main.e28c21f8.js.map": "/wooden-5-piece-set/static/js/main.e28c21f8.js.map",
+    "453.33c0f2e9.chunk.js.map": "/wooden-5-piece-set/static/js/453.33c0f2e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b5bf9a.css",
+    "static/js/main.e28c21f8.js"
+  ]
+}
