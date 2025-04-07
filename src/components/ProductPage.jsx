@@ -20,27 +20,27 @@ const ProductPage = () => {
     reviews: 1,
     galleryImages: [
         {
-          url: "../images/2.jpg",
+          url: "%PUBLIC_URL%/images/2.jpg",
           description: "Five Essential Pieces: Includes a variety of spatula shapes and sizes for different cooking tasks—ideal for flipping, stirring, and scraping.",
         },
         {
-            url: "../images/3.jpg",
+            url: "%PUBLIC_URL%/images/3.jpg",
           description: "Ergonomic Design: Comfortable, well-balanced handles provide a secure grip for easy maneuverability.",
         },
         {
-            url: "../images/4.jpg",
+            url: "%PUBLIC_URL%/images/4.jpg",
           description: "Non-Scratch: Gentle on all cookware, including non-stick pans, preventing scratches and damage.",
         },
         {
-            url: "../images/2.jpg",
+            url: "%PUBLIC_URL%/images/2.jpg",
             description: "Premium Quality Material: Made from durable, sustainably sourced teak wood known for its strength and natural resistance to moisture.",
           },
           {
-              url: "../images/3.jpg",
+              url: "%PUBLIC_URL%/images/3.jpg",
             description: "Easy to Clean: Hand wash with warm water and mild soap for long-lasting use.",
           },
           {
-              url: "../images/4.jpg",
+              url: "%PUBLIC_URL%/images/4.jpg",
             description: "Unmatched Durability: Crafted from a single piece of 100% natural teak wood, AYZI. kitchen utensils promise a lifetime of use.",
           },
       ],
