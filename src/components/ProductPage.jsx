@@ -7,7 +7,7 @@ const ProductPage = () => {
   // Sample product data (replace with details from the Amazon listing)
   const product = {
     title: "Wooden Spoons for Cooking, Wooden Cooking Utensils Set, Nonstick Kitchen Cookware – 5-piece set of wooden utensils with holder",
-    price: "$21.99",
+    price: "$24.99",
     image: "../wooden-5-piece-set/images/main.png", // Replace with actual image URL
     bulletPoints: [
         "UNMATCHED DURABILITY: Crafted from a single piece of 100% natural teak wood, AYZI. kitchen utensils promise a lifetime of use. These tools are not only beautiful but also solid, sturdy, smooth, and well-designed with a superb finish. The spoon set is guaranteed not to crack, melt, or retain odors. Due to the natural material, the utensils may vary in shade",
