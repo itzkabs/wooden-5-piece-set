@@ -63,7 +63,7 @@ const ProductPage = () => {
           </div>
           <p className="product-price">{product.price}</p>
           <ProductDescription bulletPoints={product.bulletPoints} /> {/* Use the component */}
-          <button className="add-to-cart">Add to Cart</button>
+          <a className="add-to-cart" href="https://www.amazon.com/dp/B0DZJ3MD1Y">Add to Cart</a>
         </div>
       </div>
             {/* Scrollable Image Gallery */}
