@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wooden-5-piece-set/static/css/main.a6b5bf9a.css",
-    "main.js": "/wooden-5-piece-set/static/js/main.92ebc189.js",
+    "main.js": "/wooden-5-piece-set/static/js/main.f7c919ba.js",
     "static/js/453.33c0f2e9.chunk.js": "/wooden-5-piece-set/static/js/453.33c0f2e9.chunk.js",
     "index.html": "/wooden-5-piece-set/index.html",
     "main.a6b5bf9a.css.map": "/wooden-5-piece-set/static/css/main.a6b5bf9a.css.map",
-    "main.92ebc189.js.map": "/wooden-5-piece-set/static/js/main.92ebc189.js.map",
+    "main.f7c919ba.js.map": "/wooden-5-piece-set/static/js/main.f7c919ba.js.map",
     "453.33c0f2e9.chunk.js.map": "/wooden-5-piece-set/static/js/453.33c0f2e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b5bf9a.css",
-    "static/js/main.92ebc189.js"
+    "static/js/main.f7c919ba.js"
   ]
 }
